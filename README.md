@@ -1,1 +1,1 @@
-# HomeLoanCalculator
+# SimpleInterestCalculator
